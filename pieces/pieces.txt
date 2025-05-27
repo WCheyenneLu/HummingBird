@@ -1,1 +1,1 @@
-Pieces were stored locally but were too large to be uploaded to git
+Pieces were stored locally as mp4 files but were too large to be uploaded to git
